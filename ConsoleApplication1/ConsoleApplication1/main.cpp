@@ -36,7 +36,7 @@ void PrintIntro()
 
 void PlayGame()
 {
-
+	BCGame.Reset();
 	int MaxTries = BCGame.GetMaxTries();
 
 	for (int i = 0; i < MaxTries; i++)

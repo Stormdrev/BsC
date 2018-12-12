@@ -1,3 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
   main.cpp
+  FBullCowGame.cpp
+  Создание кода...
   ConsoleApplication1.vcxproj -> C:\Users\Drev\Documents\GitHub\BsC\ConsoleApplication1\x64\Debug\BullCowGame.exe
